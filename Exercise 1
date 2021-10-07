@@ -1,0 +1,5 @@
+data new ;
+
+set hh ;
+
+run;
